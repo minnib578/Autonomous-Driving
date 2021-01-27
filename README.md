@@ -6,7 +6,7 @@ In this project, An RC car to perform lane keeping and ACC (Adaptive Cruise Cont
 
 ## Task 1
 For this task, an RC car can be stop at the front of object with the distance 30 cm
-<img src="images/stop.png" alt="Ubuntu Installer Disk" width="100%">
+<img src="images/stop.png" alt="Ubuntu Installer Disk" width="60%">
 
 
 ## Task 2
